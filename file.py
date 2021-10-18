@@ -1,3 +1,7 @@
 import os
 
-print("First version!!")
+def function():
+
+    print("Hello World!!")
+
+function()
